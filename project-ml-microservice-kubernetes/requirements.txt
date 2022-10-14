@@ -12,9 +12,11 @@
 #six
 #Werkzeug
 #pylint
+
 Flask
 numpy
 pandas
-scikit-learn==0.20.2
+scikit-learn
 pylint
 circleci
+
