@@ -7,7 +7,6 @@ import pandas as pd
 #import joblib
 from sklearn.externals import joblib #changed
 from sklearn.preprocessing import StandardScaler
-from sklearn.ensemble import GradientBoostingClassifier
 
 app = Flask(__name__)
 LOG = create_logger(app)
